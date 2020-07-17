@@ -41,4 +41,4 @@ plt.show()
 
 #Predicting the new value
 y_prd=regressor.predict([[9.25]])
-print(y_pred)
+print(y_prd)
